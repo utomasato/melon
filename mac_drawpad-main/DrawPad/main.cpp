@@ -5,7 +5,7 @@ void DrawMain()
 {
     Clear(kColorBlack);
 
-    FillCircle(0, 150, 50, kColorRed);
+    FillCircle(50, 150, 50, kColorRed);
     
     //大石
     FillCircle(100, 100, 50, kColorWhite);
@@ -14,4 +14,5 @@ void DrawMain()
     //加藤
     FillCircle(-10, -10, 50, kColorGreen);
 }
+
 
