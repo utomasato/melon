@@ -11,6 +11,6 @@ void DrawMain()
     FillCircle(100, 100, 50, kColorWhite);
     
     //加藤
-    FillCircle(-100, -100, 50, kColorBlue);
+    FillCircle(-10, -10, 50, kColorGreen);
 }
 
