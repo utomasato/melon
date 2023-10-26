@@ -5,7 +5,7 @@ void DrawMain()
 {
     Clear(kColorBlack);
 
-    FillCircle(0, 100, 50, kColorRed);
+    FillCircle(0, 100, 128, kColorRed);
     
     //大石
     FillCircle(100, 100, 50, kColorWhite);
