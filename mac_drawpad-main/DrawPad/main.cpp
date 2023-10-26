@@ -9,6 +9,7 @@ void DrawMain()
     
     //大石
     FillCircle(100, 100, 50, kColorWhite);
+    FillCircle(100, 100, 30, kColorBlack);
     
     //加藤
     FillCircle(-100, -100, 50, kColorBlue);
